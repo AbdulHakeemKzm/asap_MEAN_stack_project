@@ -1,5 +1,5 @@
-##  Lessons
-1. Introduciton to the course
+##  Steps
+1. Intro
 2. Install development tools
 3. Create Angular App
    1. Create project's folder
@@ -209,7 +209,7 @@
     4.  Add HTML
     5.  Add CSS
 
-21. Deploy On Heroku
+21. Deploy
     1.  OutputPath in angular.json
     2.  package.json
         1.  frontend
@@ -221,7 +221,7 @@
     6.  Add built folder to .gitignore
     7.  Commit and Push
 
-22. Updating Packages (Optional)
+22. Updating Packages
     1.  Install npm-check-upates as a global package
     2.  Run ncu -u in the frontend folder
     3.  Downgrade typescript to version ~4.8.2
