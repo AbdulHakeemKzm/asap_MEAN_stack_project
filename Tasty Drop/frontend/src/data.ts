@@ -15,7 +15,7 @@ export const sample_foods: Food[] = [
   },
   {
     id:'2',
-    name: 'Meatball',
+    name: 'Meat',
     price: 20,
     cookTime: '20-30',
     favorite: true,
@@ -26,7 +26,7 @@ export const sample_foods: Food[] = [
   },
   {
     id:'3',
-    name: 'Hamburger',
+    name: 'Ham',
     price: 5,
     cookTime: '10-15',
     favorite: false,
@@ -59,6 +59,17 @@ export const sample_foods: Food[] = [
   },
   {
     id:'6',
+    name: 'Vegetables Pizza',
+    price: 9,
+    cookTime: '40-50',
+    favorite: false,
+    origins: ['italy'],
+    stars: 4.0,
+    imageUrl: 'assets/food-6.jpg',
+    tags: ['FastFood', 'Pizza', 'Lunch'],
+  },
+  {
+    id:'7',
     name: 'Vegetables Pizza',
     price: 9,
     cookTime: '40-50',

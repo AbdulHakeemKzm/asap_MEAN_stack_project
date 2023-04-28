@@ -13,7 +13,7 @@ export const sample_foods: any[] = [
   },
   {
     id:'2',
-    name: 'Meatball',
+    name: 'Meat',
     price: 20,
     cookTime: '20-30',
     favorite: true,
@@ -24,7 +24,7 @@ export const sample_foods: any[] = [
   },
   {
     id:'3',
-    name: 'Hamburger',
+    name: 'Hamb',
     price: 5,
     cookTime: '10-15',
     favorite: false,
@@ -81,10 +81,10 @@ export const sample_tags:any[] = [
 
 export const sample_users: any[] = [
   {
-    name: "John Doe",
-    email: "john@gmail.com",
-    password: "12345",
-    address: "Toronto On",
+    name: "admin",
+    email: "admin@gmail.com",
+    password: "admin123",
+    address: "Kozhikode Kondotty",
     isAdmin: true,
   },
   {
