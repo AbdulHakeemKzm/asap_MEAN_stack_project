@@ -2,15 +2,15 @@ header{
   position: relative;
   background: #1976d2;
   padding: 0;
-  border-bottom: 1px solid black;
+  border-bottom: 0px solid black;
 }
 
-a{font-weight: 800;
+a{font-weight: 900;
   color: white;
 }
 
 a:hover{
-  background:#e72929;
+  background:#72b2fc;
   color: white;
   cursor: pointer;
 }
@@ -65,3 +65,4 @@ a span{
   width: 100%;
   min-width:8rem;
 }
+

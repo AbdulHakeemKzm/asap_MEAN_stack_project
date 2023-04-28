@@ -7,11 +7,11 @@ div{
 
 input{
   border-radius: 10rem 0 0 10rem;
-  border: none;
+  border: 1px solid #1976d2;
   height: 1.8rem;
   width: 20rem;
   background-color: #f1f1f1;
-  padding: 1.2rem;
+  padding: 1.1rem;
   font-size: 1.1rem;
   font-weight: 500;
   outline: none;
@@ -24,7 +24,7 @@ div button{
   font-size: 1rem;
   border-radius: 0 10rem 10rem 0;
   border: none;
-  background-color: #e72929;
+  background-color: #1976d2;
   color: white;
   opacity: 0.8;
   outline: none;
